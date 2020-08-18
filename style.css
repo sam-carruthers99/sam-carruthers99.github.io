@@ -1,0 +1,36 @@
+
+.jumbotron {
+
+    background-image: url(joanna-kosinska-mjC9apK53a8-unsplash.jpg);
+    
+    background-size: cover; 
+    background-position: center;
+
+    
+}
+
+body {
+    background-image: url();
+    background-color: #CCCCCC;
+}
+
+img {
+    
+    height: 70%;
+}
+
+.puzzleBody {
+    margin-top: 100px;
+}
+
+.indexBody {
+    margin-top: 55px;
+}
+
+.card {
+    border: 1px solid black;
+}
+
+img {
+    border-bottom: 1px solid black;
+}
