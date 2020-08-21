@@ -1,16 +1,12 @@
 
 .jumbotron {
-
     background-image: url(joanna-kosinska-mjC9apK53a8-unsplash.jpg);
-    
     background-size: cover; 
-    background-position: center;
-
-    
+    background-position: center; 
 }
 
 body {
-    background-image: url();
+    background-image: url(pawel-czerwinski-EVc9wRUXpeo-unsplash.jpg);
     background-color: #CCCCCC;
 }
 
@@ -20,7 +16,7 @@ img {
 }
 
 .puzzleBody {
-    margin-top: 100px;
+    margin-top: 75px;
 }
 
 .indexBody {
@@ -34,3 +30,5 @@ img {
 img {
     border-bottom: 1px solid black;
 }
+
+ 
