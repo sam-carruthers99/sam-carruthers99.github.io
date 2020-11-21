@@ -1,0 +1,11 @@
+
+
+Notes for the Website on Things to modify, or plans for certain aspects:
+
+Create database, will be hosted on ElephantSQL. Will be a database for each puzzle individually. Will contain the image URL (which will be 
+on a separate hosted thing online?), will also have the solution text, hint text, pdf link, and possibly later a date added. 
+
+This way, however, can load the page dynamically. See if dynamic loading can occur with multiple pages. 
+
+Better sized modals. Modals for both the hint and solution text, so it doesn't weirdly expand in on the page, and looks nicer. 
+
